@@ -1,5 +1,5 @@
 # YouTube Livechat GoToChannel
- A simple userscript to restore the "Visit Channel" aka "Go To Channel" functionality in YouTube Livestream Chats. Works currently in Chrome, Firefox, Opera, Safari and MS Edge
+ I simply merged Luk changes, now it's working.
  
  <img src="https://raw.githubusercontent.com/zerodytrash/YouTube-Livechat-Channel-Resolver/master/screenshot1.png" width="300">
 
@@ -13,7 +13,7 @@ Safari: https://apps.apple.com/us/app/tampermonkey/id1482490089  <br>
 <b>Greasemonkey</b><br>
 Firefox: https://addons.mozilla.org/de/firefox/addon/greasemonkey/
 
-2. Install YouTube-Livechat-Channel-Resolver by clicking the following Link: https://github.com/zerodytrash/YouTube-Livechat-GoToChannel/raw/master/YouTube%20Livechat%20Channel%20Resolver.user.js
+2. Install YouTube-Livechat-Channel-Resolver by clicking the following Link: https://github.com/Pastelcio/YouTube-Livechat-GoToChannel/raw/refs/heads/master/YouTube%20Livechat%20Channel%20Resolver.user.js 
 
 3. You will be asked if you want to install the script. Click "Install"
 
